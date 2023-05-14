@@ -1,3 +1,5 @@
+Warning! This project no longer works due to the fbchat dependency no longer working.
+
 # Deep Fry Bot
 A Facebook Messenger bot that deep fries the last image sent to a chat on command.
 
